@@ -1,0 +1,9 @@
+[project]
+name = "campus-connect-risk-engine"
+version = "0.1.0"
+description = "Motor determinista de riesgo de desescolarización para instituciones educativas."
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
